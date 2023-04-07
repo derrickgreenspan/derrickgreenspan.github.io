@@ -1,0 +1,7 @@
+@inproceedings{greenspan2019llama,
+  title={LLAMA-automatic memory allocations: an LLVM pass and library for automatically determining memory allocations},
+  author={Greenspan, Derrick},
+  booktitle={Proceedings of the International Symposium on Memory Systems},
+  pages={363--372},
+  year={2019}
+}

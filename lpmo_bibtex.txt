@@ -1,0 +1,7 @@
+@inproceedings{greenspan2025Persistent,
+  title={Persistent Memory Objects on the Cheap},
+  author={Greenspan, Derrick and Mustafa, Naveed Ul and Choi, Jongouk and Heinrich, Mark and Solihin, Yan},
+  booktitle={ACM International Conference on Supercomputing 2025},
+  year={2025},
+  organization={ACM}
+}
